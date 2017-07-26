@@ -1,0 +1,11 @@
+{
+  "name": "burst-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io-client": "^2.0.3"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/alpinte/socketio-test-client#readme"
+}
